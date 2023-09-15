@@ -17,5 +17,5 @@
 
 <details>
   <summary>⚡ Github Stats</summary>
-  <img align="left" alt="Mr1llusion's Guthub stats" src="https://github-readme-stats-kappa-five-26.vercel.app/api?username=mr1llusion&show_icons=true&hide_border=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats-kappa-five-26.vercel.app/api?username=mr1llusion&hide=contribs,prs&theme=aura)
 </details>
