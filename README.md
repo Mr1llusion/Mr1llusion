@@ -1,4 +1,4 @@
-<h1 align="center">Junior Ethical Hacker | Coffee Enthusiast ⚡</h1>
+<h1 align="center">Junior Ethical Hacker </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr1llusion&label=Profile%20views&color=0e75b6&style=flat" alt="mr1llusion" /> </p>
 
