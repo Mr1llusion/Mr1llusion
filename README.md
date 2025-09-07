@@ -3,18 +3,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr1llusion&label=Profile%20views&color=0e75b6&style=flat" alt="mr1llusion" />
 </p>
-
 ---
 
-### 🚀 About Me
-- 💡 Passionate about **Ethical Hacking, Penetration Testing, and Cyber Defense**  
-- 🛡️ Learning to think like an attacker while building defensive strategies  
-- 📚 Currently pursuing advanced cybersecurity training at **HDE See-Security**  
-- 🌍 Exploring **Red Teaming, Web Exploitation, and Malware Analysis**
-
----
-
-### 🧑‍💻 Languages & Tools
+### 🧑‍💻 Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -33,7 +24,3 @@
 <a href="https://www.linkedin.com/in/david-saransev-103214245/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/idavid.y" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
-
----
-
-### 📊 GitHub St
