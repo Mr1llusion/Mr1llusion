@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Penetration+Tester;CTF+Player;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Penetration+Tester;Reverse+Engineering;CTF+Player" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr1llusion&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="mr1llusion" />
+  <img src="https://komarev.com/ghpvc/?username=mr1llusion&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge" alt="mr1llusion" />
 </div>
 
 ---
