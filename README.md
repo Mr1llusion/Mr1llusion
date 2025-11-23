@@ -52,7 +52,4 @@ I'm a penetration tester who enjoys solving CTF challenges and learning about ne
 <a href="https://www.linkedin.com/in/david-saransev-103214245/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://instagram.com/idavid.y" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
 </div>
